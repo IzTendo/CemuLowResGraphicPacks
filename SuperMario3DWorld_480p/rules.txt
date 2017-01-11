@@ -1,0 +1,10 @@
+[Definition]
+titleIds = 0005000010145d00,0005000010145c00,0005000010106100
+name = "Super Mario 3D World - 480p"
+
+
+[TextureRedefine]
+width = 1280
+height = 720
+overwriteWidth = 854
+overwriteHeight = 480
