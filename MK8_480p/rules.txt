@@ -1,0 +1,10 @@
+[Definition]
+titleIds = 000500001010ec00,0005000e1010ed00,0005000e1010eb00
+name = "Mario Kart 8 - 480p"
+
+[TextureRedefine]
+width = 1280
+height = 720
+formatsExcluded = 0x41A # exclude the intro background texture
+overwriteWidth = 848
+overwriteHeight = 480
