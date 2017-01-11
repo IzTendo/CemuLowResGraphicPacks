@@ -1,0 +1,9 @@
+[Definition]
+titleIds = 0005000010176900,0005000010176A00
+name = "Splatoon - 480p"
+
+[TextureRedefine]
+width = 1280
+height = 720
+overwriteWidth = 854
+overwriteHeight = 480
