@@ -1,0 +1,9 @@
+[Definition]
+titleIds = 0005000010101c00,0005000010101d00,0005000010101e00
+name = "New Super Mario Bros. U - 480p"
+
+[TextureRedefine]
+width = 1280
+height = 720
+overwriteWidth = 848
+overwriteHeight = 480
