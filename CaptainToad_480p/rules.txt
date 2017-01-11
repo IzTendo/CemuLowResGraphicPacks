@@ -1,0 +1,9 @@
+[Definition]
+titleIds = 0005000010180700,0005000010180600,0005000010180500
+name = "Captain Toad: Treasure Tracker 480p"
+
+[TextureRedefine]
+width = 1280
+height = 720
+overwriteWidth = 854
+overwriteHeight = 480
