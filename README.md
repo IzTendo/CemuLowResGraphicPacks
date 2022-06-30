@@ -1,4 +1,4 @@
-# Cemu_Graphics_LowRes
+# CemuLowResGraphicPacks
 Low resolution graphics packs for users who cannot quite get 60FPS in Cemu, the Nintendo Wii U emulator. 
 
 # Disclaimer
